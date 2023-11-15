@@ -1,0 +1,113 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Utilisation des classes DotNET
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Utilisation des classes .NET
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Utilisation des classes DotNET
+    internal_properties : CAAAAAgAAAAZclWyIUPWNnpPlJ8sFPPo9J5V3VgbT/cDDynBKa7zOy8M3KEilIkB23M2Oje+Bkr38RUyT1xJoRHewKL5h5ygm+CMAP4XQeBfsjb4qxLcemCRb8SDOeSHExYJsyqtDIYHNQ+vJ45dCgmqeS3Sbrjq7DJJTCg5fR8a4f/gtTqB6BfPTuFQOn4N5bx3sr24g7Xtlp6Tgj3zwMl078rkruZbFi4ndrdtBCRqMGWu5SvfHzboBCpxhRXyW12l1sdUdt32sq1m1ZJIA6IH9nD9yI4L7C1fhAdcaG708LkF/IqKfTb6WtHfpBtMaWq6IjPn9G4U4S+miUW8ZU5+deEW9YbfPi8/Lrl6oKbPgzXy1pkAead2mQx8xlMUrkb9ZP8h9XYULb4ppw3xK2k9TSovCaObbC9R4ZAnVJ7X7Ql7Xq3kXA/VZGLWbTroMUagvLkojP2Kzn9GS67p+4egkzJU18RoOex1iq0e4OT7NrRZXGDScOJZeyFGsVGJYgCZiuL/+0O5c3dRZ7b9MLymYjnW5YyYWEfAETs4Jw/a/49cPKXwHSatRXhZp9SiMBCAGTWYIlB38S8omeYMIpacIqTSzTjFp1kksN9rvZLBC2p16dfr1K4JsY8exyQhFk16h8nMBh4Ld8kSGTC1VviTcVah6SIaDWubjhw433prNuo4v1vL/dFkQycE0wurSDneSSBPIlFjYmNy9J/CP30I51gxRVcbIcaTt97ZYCTS4wakSNIMsN0niCVBJdVoAvWgkvlqpf/3uKVDaHAlcuXRBF6JIq7WMIPkKnb4s2trbjv4FBtXI+N+X18XsMBf5CT614TOSQBkAqgfFelu8CLF/bW7DAoH9teVCjs2ZXdZnUtERmj/HOik1f1yZotyeVTdiucfYakU/9FEPSwOqvUx5fjT5OHb+Ab5LbMhHjX5t1nbXvxlEIn4IcGZfpOwHoXBCCJwAd0+T5Vc4jf/c1O6adoP+aa9avno12ZrPSnZrIF6bQOeEcI23ypNkdr/4SF1HhKU/Ok0gNm8JzKoDLfATZs2rEsRi4tfIvgJCHbGJBUjgi83fU8IUxkey0DG5+j1LHVstGCxNjKhnhqHmWuW5U9ap0vK0DWPrmtsngSD1xMzDSHEevRzL89Kb+2e8ShfELLGgR6qDySchMgTnTDEkd0ZDvLOdNZ2J80CP6X2JOKFYcanPCObwqVFeVUbQzi1wg3G3LLFiRt+z1dvVWlI3WxbtKShuA9Nb/eRDM6wA8wMfQOOYyxmO4FDUkhp30nSTcqNwsNnNJBpaB/7w5Q1RnsjK4EgydS9e1pvSpRI3pt9EbpDn2ccKHVWA2JCLkxPNkE2CGASz6DNBeBl0kgj4fJx+W7qCp/c1nl/TmAg5kQGsfagf6loew5ODP5GqFJM71a3nPC3JS6PqRnWJgLb8V48hGLT3dJrxFi4PfaGPLgo7rjmHHtqkesP6h1O/7LRn8bngRtkik0SaQrq7POpG5sTaDH7x858aPJ48mWBkwgaqbEIvgIxSiZCbvq1CSKNN6AY0TrhKYn8hObRUmcjfNKuETNLO9YOd5PORTbxv02/wtYtrBVWAmfqh5giWIsGAbycru/1/07727C8jDCaZl7sX2mOsWS+e7VOMNAmbJHs51sg+uwBWUtp7TmRqDQQMDivkNN6uZDK1+expmf/zLVQVL3uSyoKZFetBJNmCSiutk+ORMStCkFWPOewZ820E6OqdYkWglbC5kGnN08psyS4jCa+kSMdh29FgtH6J3lvMpsEo59jilgZAI57/vVZkL5zVMoiOdkG59qP9XwQiOvDu3jwNLn0rF9nMDKaq/n38w+IQjg8jJv934b94aUY/GbD+PqEXTqkG2aU3LHrmNlFsMubOCoKauJj8UegCLCF72/+L2EAKDQx2mpUFeXFNPVrueQ97qN5D5U4Jp7jq5CHMVDTlxdoc1xLLc9tu6oL/vsEeEr2HJTjk1DzrjcWfqV+T3Ov5LEPTP77IgtCbtnuY7QpaJibhQIxaFv03aK9WrP3BIkhO2Uf5MhutQmhvzFYTbaKfCFDNl1QV95GGFysqOhWovIOoYjmVHLsaIbl+PPbTawV8VDA5RqJJEx+kLTRVfC0tiiw/SR/0XCRfTeEeb3BwSkDnwIwxLDLuldlod6FTmn1G1AjgVgkj8JRQ/+Thv+OW6x2/GBnLALyeuQga5dTSmwQqnXhyLv82IW8V775Z7GPOqf2FCidDo29YzskGf94rKovFH9IXxAxCJzkXwYjNhVwySddskTyxvrM62DnUVnk4ciIHqfkc6IXN0LZ5GeRRk+5aD/t9Gry/Dr2vhPpwe6rY2l6cfddatagSwg3Os00AIPw04xC7xkxuGD08xhSKWJo2cEqL8D1Oyb5lq2EV/OMwXLoSlILAIMSzrLdkQZTkXz8ZDVh0kwBj0R775GUF6XoNvdcUWg5sJwBiFCno75xWeoZYTD2ELvpqTWIK+I2jo7SF1V5+7KBCbP8co85n29dzdh3eGnC0NSjkAKixxJBch2o8doAUrJI2Jzj1RpTU2miOzfnMliXNFJF68i8abcpC4B57ZRbqYlBPhyv5A8L5kNzEvMpY9MNZRI3ASVb/DhwQ8a8HbIFdq9oCuhcaTTDmllu74Z540zW9x7/PFfUOtficcW2IWHRXABXqfi7Z206EXrO5EtCjNmmSqi8h+w47YBKD21nLfBQGrrwX6AaAKhcq1eWO82FnP9xAEmxh2g9GTT35vW0kf/U4LqxbG9/dOZ1ud+3k3vBEl627S/udiAdBtyh2q/1P3qUbfLQNrY3egL70Es5trBDrBpZO7vlPhm9Dy3rYLDeuiv1veHPfZLqPkSR2VineisZcj5Xpr2LMtpHGLM/vPwBigU6KyoEOT3MNPNn6MYzQIBIqBr6WoDKg1l55WxrMpUTKVPqDeP7VoJ2pPYOzkzwVPCDoI4+IxWlGeTJShwtTpR9YHtVQbItamsAO3qd7778mr+KTF34GeSXyQIdyF5vRsJH7rSDP6kIxhes+2SBE/WTgh5GslLdtau5dPODo+yn8hFz5TkS93xVM2XIWJV6lWeM1qY+JGDjm7EbmjT8Rc3m1j09JmkIEQepxB2re5IpoeLSOGi1vfQua2h7n9fE6MMH8unOJ8wqII5l/Heq70O2P2WKaktRSDgDdjN0ipTKjg3qqnqH/O24GNqGSDh9ReOiBQ32Z96s4UxIP1Mz+D6j1hMiklV6aWpbNhBYwKvLdRiFRSwmmUPLg3YMajSeBt5WsbgRqi6CCNpx8Cqcfxjt3IMK8jPMkYdDdvS4pl/KdhAbCQYPNr81nV5kvqxyxBbOqZWeh39ntw5exUzQO1UFMEiTFRqxKjC1mBVUfq8LnYUnrRjlDgXe+n4xKWxJg16F5Nk+b5fklmJQ65HjKGptgLuWprCWE4hcxxWACnnEhIcQDq+b0qeTwXNo4il9i6/nUlkGgze5JgO55FByo9o5enlfueNks7lQ61dBYY3zRdfy4A9lUtizd//wpvWhLw81aGu5BrAK2CFc07JuVyZRBi5ieiCZzEkheD2gRqjHEZUfJ3iaSZHRG5s0Sr/C5Lo/UkX6mwVpidfvbisY2UR3NDD7Ua+48aCyhTHrbTtVDzeurmmpBLYLV4dG8D1EA6OsO3XUkQMYbkWAp1pIhahU2wDMuDeeqdtHrvc+mjhTxSeiOoX7BHYz158g8oeK5gSJYBfe+8H785hz1ib3vjGko9PhUxbAo2Ijgk5ls6XpW+bVwSJJFLCWuKUi1P4CEjFX7hNpMizLQ25/DhunND8pMueVVx8vhDUuydNb2aOb+ai3YUMEfae3X5cTi5gV2XpCcS/Y4VVhDWSqnUwss64IVedqGrExmo/1PCbHGcvQhLV2Smz1hraNxQmbvwHdn/uSWVaay4mtJfgijXCu+cd2c+C/fa8VAkP9FIhxtZFFv2Ne8hZPNDFY3NP+JChryR8Qg/vfCM3GlGEAm2OhNPWC7aDrMfIBZutaxeL0YnHS6pN9iTbdfixm1Bxra758XnWdlArK403WXK+Qp7wF/LOOecqH/aXGnQ1gq+K0Wlmzcaby5PbW+RtgkowEmn50uM6ga+Gn6HatWTnY540OkwUngJElIwIgeTgi1QiimuDreatXNbXfsh4dT48W/G+EzuqbciqbUKjfg64C9bsZ7BbF+BE4EMPxbGmVKAwSKGxynowYgN26lSb+UMWTpzCno7voNzyE0dFmKcbrRswcw1nFUk0a5ofuO6ZGHawQLGxE6Pnl1794R4q2XMaJ2eLRroigz8LqK6LmCBsXmhPM/TcKRtNnQaQreqpuBSfJ+++uRgNMxVp6uacFRw/KyNBE4vxtEHP5yno/LwIWgRPYW9k/lhF5l5t8UwK/xqIgUxEryZsvLYbQZW2J9SGHB6pTkW7HpqyY5ZdezF/fEiDCNdszQEsjUQafaGbEL1k0TlxKrtIYqq0UWbs1gz8slsMK8v11WA6QlTXmeYUHhmJF0FKrkxykvLpJwvOxEEbPYQnLscNWyoWLtDuz4RSe3JmEVGvMAiWiL7nnU6wzuqc6oJ1COZ0q/jMmx/aXlayceqbD9a2qPi8DLcNAhmeY7n5VklqP5RiM0RRnCOAd6NqiS9EuC4Ga5pyibBbM86FP5bLHcWiX9jlX5mI06RVXfwzVabacm8bPvFu/09KXcovp8/woXVeW/re/cppKmb+edqW4sEaf911D0mGoHJuanKs/X3cHnp3fUE/4PhbEjyNXvukDZHszUYmlQO5yndNRYk8O1wrN9ohNwFA9SEovtCBlUd7LpsvAcMHvyCINN8P/fv1HvBh0fbFNReMUmn/tUIeup8i0+GXm/Q==
+    configuration_id : 2107224971912444268
+    type : 1
+    generation_name : WD Utilisation des classes DOTNET.exe
+    version :
+     version : 11.00Ad
+    icon_filename : .\VST18111c-32-5.ico
+    language : 1
+ elements :
+  identifier : 0x4ac06da7000d5cee
+  elements :
+   -
+     name : FEN_Principale
+     identifier : 0x400f91e9000129af
+     internal_properties : CAAAAAgAAABKwLJWVRIaxYJ98XC0Tmm9amtRSWw/4WZSuqcik53/6cMTiRnOK2vk61VPqWlnE4VP1w==
+     physical_name : .\Fen_Principale.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies :
+   -
+     name : mscorlib
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+     physical_name : mscorlib.dll
+   -
+     name : System.Windows.Forms
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+     physical_name : System.Windows.Forms.dll
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAABtSsPCooaWrYhoPCoIE0WUBpgCIn3EYPABeOYJtMT1mbHcAblwt64EMAtXoTTSMRJ2iWoSdz1kC9584WpmJ/ESVC1SLjitlHkjnIhe4inWOjz2HdW7PMS9Oy3/z8esjaHEHM+8WehaBR35nOP4WSEcEuHF5TWL1WhyLSuoCP4qpMpLAOZC
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      
+      Quand Exception
+      	erreur(<§@00000000000000000000§>,<§@00000000000000000001§>, "", <§@00000000000000000002§>, exceptioninfo(errmessage))
+      	finprogramme()
+      fin
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Utilisation des classes DotNET
+     identifier : 0x4ac06da700115de7
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Le Framework .NET a renvoyé une erreur inattendue
+     index : 0
+   -
+     text :
+      fr-FR : L'application va se terminer
+     index : 1
+   -
+     text :
+      fr-FR : "Détails de l'erreur :"
+     index : 2
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
